@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "536963462204",
+    "project_id": "villetrixx",
+    "storage_bucket": "villetrixx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536963462204:android:c8729c42789a6300b7ff39",
+        "android_client_info": {
+          "package_name": "com.villecreations.villetrixx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536963462204-hjq379oa4dcnit8upmav72ht5poo8j2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWgdFe_4x_Iou85VhFJpAndJbGylVYeQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536963462204-hjq379oa4dcnit8upmav72ht5poo8j2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
